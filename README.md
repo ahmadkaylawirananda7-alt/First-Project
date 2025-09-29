@@ -1,2 +1,0 @@
-# First-Project
-Belajar Pertama
